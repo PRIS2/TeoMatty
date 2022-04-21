@@ -1,7 +1,7 @@
 import cmath, math, numpy
-def addComplex( z1, z2):
+def add_complex( z1, z2):
     return z1 + z2
-def subComplex(z1, z2):
+def sub_complex(z1, z2):
   return z1-z2
 z1 = complex(2, 3)
 z2 = complex(1, 2)
